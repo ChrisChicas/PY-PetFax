@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 petfax
+_config.py
